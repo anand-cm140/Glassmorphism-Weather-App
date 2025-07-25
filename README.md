@@ -2,6 +2,7 @@
 # Glassmorphism Weather App
 
 A sleek and modern desktop weather application with a beautiful glassmorphism design. It provides real-time weather information for any city, featuring dynamic backgrounds that change according to the current weather conditions and time of day.
+<br>
 ![Screenshot of the Glassmorphism Weather App](weatherapp.png)
 
 ## Features
